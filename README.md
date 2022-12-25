@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **clarkrc82@gmail.com**
 
-- ⚡ Fun fact **I've been to every state in the US**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rick-clark-60b831252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rick-clark-60b831252" height="30" width="40" /></a>
